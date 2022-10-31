@@ -3,6 +3,6 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Aguirre Cevallos"
   given-names: "Joseline Domencia"
-title: "Clasificación Multiclase de imágenes de ultrasonido de seno usando una red Profunda."
+title: "Clasificación Multiclase de imágenes de ultrasonido de seno usando una red Profunda (DL)."
 version: 2.0.4
 date-released: 2012-10-16
